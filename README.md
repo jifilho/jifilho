@@ -15,7 +15,7 @@
 <p align="center">
  <a href="https://www.facebook.com/iranf2/">Twitter</a> •
  <a href="https://twitter.com/jiffilho/">Facebook</a> •
- <a href="malito:iran_filho@yahoo.com.br">Email</a>
+ <a href="iran_filho@yahoo.com.br">Email</a>
 </p>
 
 # Objective
