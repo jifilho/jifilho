@@ -2,13 +2,13 @@
 
 ## <i>"Any advanced technology is indistinguishable from magic"</i> - Arthur Clarke </br> I always wanted to be a wizard 😃
 
-<p align="center">
+<strong><p align="center">
  <a href="#contact">Contact</a> •
  <a href="#objective">Objective</a> •
  <a href="#technologies">Technologies</a> • 
  <a href="#contributions">Contributions</a> • 
  <a href="#author">Author</a>
-</p>
+</p></strong>
 
 # Contact
 <p>Contact me on:</p>
