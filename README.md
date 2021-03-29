@@ -23,7 +23,7 @@
 
 # Technologies
 <h4 align="center"> 
-	🚧  Soon...  🚧
+	🚀 Actually, learning Python
 </h4>
 
 # Contributions
