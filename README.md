@@ -15,10 +15,9 @@
 <p align="center">
  <a href="https://www.facebook.com/iranf2/">Twitter</a> •
  <a href="https://twitter.com/jiffilho/">Facebook</a> •
- <a href="malito:iran_filho@yahoo.com.br">Email</a>
 </p>
 
-# Objective
+# Who i am
 <p>I'm graduated in Systems Analysis by Universidade Potiguar (UnP) and I'm looking to develop my learning and acquire my first professional experience in the area.</p>
 
 # Technologies
@@ -27,11 +26,6 @@
 </h4>
 
 # Contributions
-<h4 align="center"> 
-	🚧  Soon...  🚧
-</h4>
-
-# Author
 <h4 align="center"> 
 	🚧  Soon...  🚧
 </h4>
