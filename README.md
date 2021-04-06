@@ -14,7 +14,7 @@
 <p>Contact me on:</p>
 <p align="center">
  <a href="https://www.facebook.com/iranf2/">Twitter</a> •
- <a href="https://twitter.com/jiffilho/">Facebook</a> •
+ <a href="https://twitter.com/jiffilho/">Facebook</a>
 </p>
 
 # Who i am
