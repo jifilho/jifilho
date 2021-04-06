@@ -22,7 +22,7 @@
 
 # Technologies
 <h4 align="center"> 
-	🚀 Actually, learning Python
+	🚀 Actually, learning Python and JavaScript
 </h4>
 
 # Contributions
