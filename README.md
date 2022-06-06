@@ -27,5 +27,5 @@
 
 # Contributions
 <h4 align="center"> 
-	🚧  Soon...  🚧
+	<p>See Below</p>
 </h4>
