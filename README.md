@@ -18,11 +18,11 @@
 </p>
 
 # Who i am
-<p>I'm graduated in Systems Analysis and Development by Universidade Potiguar (UnP) and I'm looking to develop my learning and acquire my first professional experience in the area.</p>
+<p>I'm graduated in Systems Analysis and Development by Universidade Potiguar (UnP) and postgraduating in Data Science and Analytics by USP/Esalq. I'm looking to develop my learning and acquire my first professional experience in the area.</p>
 
 # Technologies
 <h4 align="center"> 
-	🚀 Actually, learning Python and JavaScript
+	🚀 JavaScript and Data Science
 </h4>
 
 # Contributions
