@@ -1,6 +1,6 @@
 # ✌️ Welcome!
 
-## My name is Iran Filho. I'm currently learning back-end development at Cubos Academy.
+## My name is Iran Filho. I'm a Back-end developer looking for my first job.
 
 ### Check out my social media below
 
